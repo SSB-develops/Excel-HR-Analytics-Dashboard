@@ -76,7 +76,23 @@ The dashboard is fully interactive with slicers and navigation buttons for bette
 
 # 📸 Dashboard Preview
 
-![Dashboard Preview](Images/Home.png)
+## 🏠 Home Page
+![Home Page](Images/Home.png)
+
+---
+
+## 📊 Attrition Analysis Dashboard
+![Overview Dashboard](Images/Attrition_analysis.png)
+
+---
+
+## 👥 Employee Insights Dashboard
+![Employee Insights](Images/employee_insights.png)
+
+---
+
+## 😊 Satisfaction Dashboard
+![Satisfaction Dashboard](Images/Satisfaction_analysis.png)
 
 ---
 
