@@ -105,3 +105,6 @@ Dataset: IBM HR Analytics Employee Attrition & Performance Dataset
 
 **Sandhya Budhavale**  
 
+## 📜 License
+
+This project is licensed under the [MIT License](./LICENSE).
